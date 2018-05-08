@@ -6,3 +6,10 @@ Codes for SE Null
 \install\views\scripts\install\license.TPL<br>
 \application\modules\Core\widgets\admin-news\Controller.php<br>
 \application\modules\Core\widgets\admin-news\index.TPL
+
+//Products Recomend
+\application\modules\Core\widgets\admin-featured-products
+
+//FEED SE =>SEF
+\application\modules\Core\views\scripts\admin-news
+\application\modules\Core\controllers
