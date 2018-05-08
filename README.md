@@ -8,8 +8,10 @@ Codes for SE Null
 \application\modules\Core\widgets\admin-news\index.TPL
 
 //Products Recomend
+
 \application\modules\Core\widgets\admin-featured-products
 
 //FEED SE =>SEF
-\application\modules\Core\views\scripts\admin-news
-\application\modules\Core\controllers
+
+\application\modules\Core\views\scripts\admin-news\index.tpl
+\application\modules\Core\controllers\AdminNewsController.php
