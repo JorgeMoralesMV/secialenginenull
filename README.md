@@ -15,3 +15,6 @@ Codes for SE Null
 
 \application\modules\Core\views\scripts\admin-news\index.tpl
 \application\modules\Core\controllers\AdminNewsController.php
+
+
+\application\modules\Core\widgets\admin-statistics
